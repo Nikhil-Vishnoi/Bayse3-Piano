@@ -9,8 +9,10 @@ Using the Piano:
 Peripherals Used: 
 DAC Connected to FPGA through the JG port. 
   https://digilent.com/shop/pmod-r2r-resistor-ladder-d-a-converter/ 
+  
 OP Amp Used to take the DAC Output and Amplify enough so the sound out is audible. 
   https://www.sparkfun.com/products/11044 
+  
 Speaker Connected to the OP Amp.
   https://www.sparkfun.com/products/9151
 
