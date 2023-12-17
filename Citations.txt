@@ -1,0 +1,16 @@
+﻿Where we got information about peripherals specs 
+https://digilent.com/shop/pmod-r2r-resistor-ladder-d-a-converter/ 
+https://www.sparkfun.com/products/11044 
+https://www.sparkfun.com/products/9151  https://blog.landr.com/how-do-speakers-work/ 
+
+
+Where we got information about how to use the dac amp and speaker to actually generate a noise 
+https://www.youtube.com/watch?v=_tABS7AX8D8 
+
+
+Where we figured out how to have a sine wave be passed into our DAC by making a sine wave generator Verilog file. 
+https://verilogcodes.blogspot.com/2015/11/verilog-code-for-simple-sine-wave.html 
+
+
+Piano Key Frequencies Found From Google Search Image 
+https://qph.cf2.quoracdn.net/main-qimg-3ce2c1cee26d50844f37d663c865047e.webp
