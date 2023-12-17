@@ -4,7 +4,9 @@ Porject was Built ontop of Vivado Workspace.
 Using the Piano: 
 
   Switch 0 is used to toggle between Loud and Quiet(Emits the 3 MSB giving addition space for choording keys) 
+  
   Switch 15-4 is from C to B Keys on the Piano 
+  
   BTNL and BTNR switches the Octaves( Doubles to Frequencies ) 
   
 Peripherals Used: 
