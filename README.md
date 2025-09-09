@@ -8,7 +8,12 @@ Using the Piano:
   Switch 15-4 is from C to B Keys on the Piano 
   
   BTNL and BTNR switches the Octaves( Doubles to Frequencies ) 
-  
+
+Demo Video: 
+
+https://drive.google.com/file/d/1vocSANsFEKHStuXAPGA-YLal-ZOa3vSR/view?usp=sharing 
+
+
 Peripherals Used: 
 
 DAC Connected to FPGA through the JG port. 
